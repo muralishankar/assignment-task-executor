@@ -17,6 +17,7 @@ Time Report:
 - Creation UI and component structuring (2 HR 30 Min).
 - Integrating UI with Redux, Thunk, API (30 Min).
 - Adding LocalStorage support to the APP (15 Min).
+- Overall UI Testing (30 Min).
 - Writing Test cases (30 Min).
 
 
