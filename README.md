@@ -13,8 +13,8 @@ Steps to run the testcases:
 Task Time Report:
 
 - Analysing the task and dependent api knowledge (40 Min)
-- creation of Action,Reducer,Store and other configs (1 HR).
-- creation UI and component refactoring (2 HR 30 Min).
+- Creation of Action,Reducer,Store and other configs (1 HR).
+- Creation UI and component structuring (2 HR 30 Min).
 - Integrating UI with Redux, Thunk, API (30 Min).
 - Adding LocalStorage support to the APP (15 Min).
 - Writing Test cases (30 Min).
