@@ -7,7 +7,7 @@ Steps to run the application:
 
 Steps to run the testcases:
 
-- npm run test
+- npm run test (Press 'a' to run all test cases).
 
 
 Task Time Report:
