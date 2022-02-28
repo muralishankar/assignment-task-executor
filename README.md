@@ -10,7 +10,7 @@ Steps to run the testcases:
 - npm run test (Press 'a' to run all test cases).
 
 
-Task Time Report:
+Time Report:
 
 - Analysing the task and dependent api knowledge (40 Min)
 - Creation of Action,Reducer,Store and other configs (1 HR).
