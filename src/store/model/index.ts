@@ -1,3 +1,3 @@
 export type TaskItem = {
-    id: number, created_at: string, resolved_at: string, status: string, image: string
+    id: number, created_at: string, resolved_at: string, status: string, image: string, required_time?: number
 }

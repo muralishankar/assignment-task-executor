@@ -1,12 +1,12 @@
 
-type HODTableProps = {
+type HOCTableProps = {
     children:
     | JSX.Element
     | JSX.Element[]
     | string
     | string[];
 };
-export const TaskListTable = ({ children }: HODTableProps) => {
+export const TaskListTable = ({ children }: HOCTableProps) => {
     return <div className="flex flex-col">
         <div className="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
             <div className="py-2 align-middle inline-block min-w-full sm:px-6 lg:px-8">
@@ -30,7 +30,7 @@ const TableHeader = () => (
                 scope="col"
                 className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider"
             >
-                Task id
+                Job id
             </th>
             <th
                 scope="col"
